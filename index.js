@@ -29,3 +29,7 @@ console.log(cliente1);
 console.log(cliente2);
 console.log(cliente1);
 console.log(cliente2);
+console.log(cliente1);
+console.log(cliente2);
+console.log(cliente1);
+console.log(cliente2);
